@@ -160,9 +160,6 @@
         <mxCell id="2X42TbavsMhEi75XTpeS-4" value="Semantic-level" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="330" y="252" width="260" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="2X42TbavsMhEi75XTpeS-48" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="2X42TbavsMhEi75XTpeS-6" target="2X42TbavsMhEi75XTpeS-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="2X42TbavsMhEi75XTpeS-6" value="Model Training &amp; Comparison" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="175" y="380" width="260" height="78" as="geometry" />
         </mxCell>
@@ -171,29 +168,6 @@
         </mxCell>
         <mxCell id="2X42TbavsMhEi75XTpeS-8" value="DL Model" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="330" y="520" width="260" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="2X42TbavsMhEi75XTpeS-40" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2X42TbavsMhEi75XTpeS-9" target="2X42TbavsMhEi75XTpeS-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="903" y="352" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2X42TbavsMhEi75XTpeS-41" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="2X42TbavsMhEi75XTpeS-9" target="2X42TbavsMhEi75XTpeS-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2X42TbavsMhEi75XTpeS-42" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="2X42TbavsMhEi75XTpeS-9" target="2X42TbavsMhEi75XTpeS-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2X42TbavsMhEi75XTpeS-9" value="Experimental Design" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="800" y="294" width="206" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="2X42TbavsMhEi75XTpeS-11" value="Single Language vs Cross-Language" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="639" y="520" width="260" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="2X42TbavsMhEi75XTpeS-12" value="Normal vs Adversarial Scenarios" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="949" y="520" width="260" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="2X42TbavsMhEi75XTpeS-13" value="Evaluation Metrics" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1259" y="532" width="191" height="54" as="geometry" />
         </mxCell>
         <mxCell id="2X42TbavsMhEi75XTpeS-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="2X42TbavsMhEi75XTpeS-1" target="2X42TbavsMhEi75XTpeS-2">
           <mxGeometry relative="1" as="geometry">
