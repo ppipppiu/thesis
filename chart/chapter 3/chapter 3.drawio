@@ -493,6 +493,12 @@
         <mxCell id="lMgCWykKAm_jhYnOup-6-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 13px; color: light-dark(transparent, rgb(255, 145, 243));&quot;&gt;LinearSVM&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="510" y="145" as="geometry" />
         </mxCell>
+        <mxCell id="lMgCWykKAm_jhYnOup-6-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="444" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="lMgCWykKAm_jhYnOup-6-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 13px; color: light-dark(transparent, rgb(255, 167, 255));&quot;&gt;Ridge&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="460" y="195" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
