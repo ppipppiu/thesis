@@ -522,6 +522,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UPyfLN0nt8r0ljCak2xx-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#fff2cc;glass=1;" value="" vertex="1">
+          <mxGeometry height="250" width="120" x="240" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UPyfLN0nt8r0ljCak2xx-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#d5e8d4;gradientColor=none;glass=1;" value="" vertex="1">
+          <mxGeometry height="250" width="130" x="110" y="60" as="geometry" />
+        </mxCell>
         <mxCell id="v5SOTPHJQmvdlPm5yXtv-1" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="100" y="311" as="sourcePoint" />
@@ -581,6 +587,12 @@
         </mxCell>
         <mxCell id="UPyfLN0nt8r0ljCak2xx-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;autosize=1;resizable=0;" value="30" vertex="1">
           <mxGeometry height="30" width="40" x="64.5" y="183" as="geometry" />
+        </mxCell>
+        <mxCell id="UPyfLN0nt8r0ljCak2xx-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;span style=&quot;color: rgb(0, 204, 0);&quot;&gt;CPU&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="151" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="UPyfLN0nt8r0ljCak2xx-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;span style=&quot;color: rgb(212, 212, 0);&quot;&gt;GPU&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="270" y="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
